@@ -22,8 +22,6 @@ void plotAllTriangles(){
       vertex(points[k][0],points[k][1]);
       endShape(CLOSE);
     }
-    
-   
    }
   }
  }
